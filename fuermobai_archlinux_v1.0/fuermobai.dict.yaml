@@ -1,0 +1,19 @@
+# fuermobai.dict.yaml
+---
+name: fuermobai.dict.yaml
+version: "2018.09.12"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.extended
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.cn_en
+...
+
+笑死我了	xswl	80%
+你妈死了	nmsl    100%
+销售网络	xswl    20%
+
+
